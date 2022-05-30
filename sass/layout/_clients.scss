@@ -1,15 +1,4 @@
-.clients__title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16;
-  text-align: center;
-  text-transform: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  color: var(--secondary-text-color);
-}
-.clients__list {
+.clients {
   display: flex;
   justify-content: space-between;
   padding-left: 0;
