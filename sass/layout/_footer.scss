@@ -47,37 +47,6 @@
   color: #ffffff;
   margin: 0;
 }
-.connect__list {
-  padding: 0;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 20px;
-  margin-bottom: 0;
-}
-
-.connect__item {
-  width: 44px;
-  height: 44px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0px 4px 4px 0px #00000040;
-  border-radius: 50%;
-  &:not(:last-child) {
-    margin-right: 10px;
-  }
-}
-.social__link--footer {
-  color: #ffffff;
-}
-
-.connect-icon {
-  width: 20px;
-  height: 20px;
-  fill: currentColor;
-}
 
 /* ---------------------subscribe--------------------- */
 .subscribe {
